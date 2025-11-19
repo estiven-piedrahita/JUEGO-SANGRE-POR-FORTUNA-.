@@ -1,3 +1,5 @@
+diagrama de flujo
+https://drive.google.com/file/d/1yDryUNF2v6X07LBU_eBcZuSdIddE9ezi/view?usp=sharing
 # 🏛️ SANGRE POR FORTUNA - Juego de Gladiadores
 
 ## 📖 Descripción
